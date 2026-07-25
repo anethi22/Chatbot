@@ -1,5 +1,5 @@
 Groq Chatbot Collection
-======================
+========================
 
 This repository contains simple terminal chatbots that demonstrate different
 prompting techniques using the Groq API.
